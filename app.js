@@ -7,3 +7,25 @@ app.get('/', (req,res) => {
 })
 
 app.listen(port);
+
+
+
+function yeet(){
+    console.log('asdsadasdsadsa')
+}
+
+
+module.exports = {yeet}
+
+
+
+
+
+
+
+
+
+
+
+
+
